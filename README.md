@@ -1,5 +1,13 @@
 # Angular y el mundo de las SPAs
 
+## Hoja de Ruta
+
+1. Introducción al concepto de Single Page Applications
+2. ¿Qué es Angular?
+3. Arquitectura de una aplicación Angular
+4. Eligiendo un lenguaje para nuestras apps en Angular
+5. Tutorial: Armando nuestro ambiente
+
 ## Introducción al concepto de Single Page Applications
 
 Esta clase tiene como objetivo introducirlos en el concepto de las SPAs y comenzar a ver a Angular como una tecnología para lograrlo.
@@ -75,7 +83,6 @@ Angular funciona permitiéndonos extender HTML, expresando funcionalidad a trav�
 * Angular promueve la modularidad desde su diseño, siendo fácil crear y lograr reuso de los componentes y del contenido.
 
 * Angular a su vez tiene soporte ya incluido para comunicación con servicios de back-end (es fácil que nuestras webs apps se conecten a nuestros backends y ejecuten leogica del lado del servidor).
-
 
 ### Angular 2 vs "Angular 1"
 
