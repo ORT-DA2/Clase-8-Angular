@@ -218,7 +218,7 @@ Sin embargo, otros editores de código como Atom, Brackets, Sublime Text o Eclip
 
 A su vez, para armar nuestro ambiente también precisaremos instalar NPM. **NPM** o (*Node Package Manager*) es una **Command Line Utility** que nos permite interactuar, de una forma muy simple, con un repositorio enorme de proyectos *open-source*. Ha ganado muchísima popularidad al punto en que se ha convertido en EL package-manager para JavaScript. Con él, podemos instalar librerías, paquetes, aplicaciones, en conjunto con las dependencias de cada uno.
 
-Lo bajaremos desde [aquí](www.npmjs.com). Donde también nos pedirá instalar Node si es que no lo tenemos instalado ya.
+Lo bajaremos desde aquí: www.npmjs.com. Donde también nos pedirá instalar Node si es que no lo tenemos instalado ya.
 
 #### ¿Por qué lo usaremos en nuestras Apps de Angular? 
 
