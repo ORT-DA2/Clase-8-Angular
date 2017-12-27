@@ -64,6 +64,10 @@ El mismo logra logra sus mejores resultados cuando la aplicación a desarrollar 
 
 ![imagen](doc-images/angular%20logo.png)
 
+### Lectura Previa: ¿Por qué Angular?
+
+https://medium.com/angular-japan-user-group/why-developers-and-companies-choose-angular-4c9ba6098e1c
+
 ### Introducción
 
 * Framework de JavaScript 
